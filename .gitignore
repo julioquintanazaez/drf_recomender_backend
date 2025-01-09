@@ -1,0 +1,11 @@
+# Ignore log files
+*.env
+
+#Ignore CSV files 
+*.csv
+
+# Ignore the build directory
+envrecomender/
+
+
+
